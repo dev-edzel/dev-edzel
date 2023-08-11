@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Edzel Dacanay</h1>
-<h3>A passionate macho dancer</h3>
+<h3>A passionate Web Developer</h3>
 
 <p>Free and open source software (FOSS): This refers to software that is both free to use and open source, meaning that the source code is publicly available and can be modified and distributed by anyone.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-edzel&label=Profile%20views&color=0e75b6&style=flat" alt="dev-edzel" /> </p>
